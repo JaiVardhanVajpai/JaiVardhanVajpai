@@ -5,111 +5,136 @@
 
 ### Cybersecurity • Secure Systems • Investigation • Technology
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=8FB8FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%40+BML+Munjal+University;Cybersecurity+%7C+Secure+Systems+%7C+IT+Audit;Exploring+Risk%2C+Security%2C+and+Real-World+Technology;Building+Practical+and+Security-Focused+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=8FAADC&center=true&vCenter=true&width=700&lines=Cybersecurity+focused+Computer+Science+student;Exploring+secure+systems+and+risk;Building+practical+technology+with+security+in+mind" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-vardhan-vajpai)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaiVardhanVajpai)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaivardhanvajpai06668@gmail.com)
+<a href="https://linkedin.com/in/jai-vardhan-vajpai">
+<img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaivardhanvajpai06685@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JaiVardhanVajpai">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# About Me
+## About
 
-Final year B.Tech Computer Science Engineering student at BML Munjal University with focused exposure in cybersecurity, secure systems, investigation, and risk-oriented technology domains.
+Final year B.Tech Computer Science student at BML Munjal University with hands-on exposure across:
 
-My work and learning currently revolve around:
 - cybersecurity research
 - secure application development
-- vulnerability analysis
-- IT audit & compliance
-- mobile forensics exposure
-- real-world cybercrime and fraud analysis
+- vulnerability assessment
+- legal-tech investigation
+- IT audit fundamentals
+- secure systems thinking
 
-I’m particularly interested in understanding:
-> how systems fail, how risks emerge, and how technology can be designed more securely and responsibly.
+My learning currently sits at the intersection of:
+> technology, security, risk, and real-world systems.
+
+I enjoy understanding:
+- how systems fail
+- where vulnerabilities emerge
+- how software can be designed more responsibly
 
 Outside cybersecurity, I also explore:
 - Android development
 - IoT systems
-- secure software engineering
 - modern web technologies
 - scalable engineering fundamentals
 
 ---
 
-# Tech Stack
-
-### Languages & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql" />
-</p>
-
-### Cybersecurity & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,bash" />
-</p>
-
-- Wireshark
-- OWASP ZAP
-- Acunetix
-- Android Studio
-- Command Line / Linux Basics
-
----
-
-# Cybersecurity Focus Areas
+## Focus Areas
 
 ```txt
-OWASP Top 10
+Cybersecurity
 Web Application Security
-Vulnerability Assessment
-Network Security
-Incident Response
-SIEM (Basic)
-Threat Management
-Hardening
-IAM Fundamentals
+OWASP Top 10
 IT Audit
-Risk Assessment
-Cybersecurity Law
-Mobile Forensics
+Risk & Compliance
+IAM Fundamentals
+Incident Response
 Log Analysis
+Network Security
+Secure Application Development
+Mobile Forensics
+Legal-Tech Research
 ````
 
 ---
 
-# Experience
+## Tech Stack
 
-## Cyber Techno Attorneys — Cybersecurity Intern
+### Languages
 
-**Jun 2025 – Jul 2025**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,sql,bash" />
+</p>
 
-* Worked on cybercrime and fraud-related research involving digital extortion, AI misuse, and crypto-related investigations
-* Explored mobile forensics concepts including CDR analysis, IMEI tracing, and digital evidence workflows
-* Studied Indian cyber law frameworks including IT Act, PMLA, FEMA, and cybercrime investigation processes
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,androidstudio" />
+</p>
+
+### Security Tooling
+
+```txt
+Wireshark
+OWASP ZAP
+Acunetix
+Terminal / CLI
+Log Analysis
+Vulnerability Reporting
+PoC Documentation
+```
 
 ---
 
-## Cryptonic Area — Cyber Security Intern
+## Experience Snapshot
 
-**Feb 2026**
+### Cyber Techno Attorneys — Cybersecurity Intern
 
-* Worked on secure web application concepts and vulnerability analysis
-* Implemented authentication, password hashing, session handling, and input validation
-* Explored OWASP methodologies, log analysis, and basic incident response workflows
+```txt
+Worked on cybercrime and fraud-related research involving:
+• digital extortion
+• AI misuse
+• crypto-related investigations
+
+Explored:
+• CDR analysis
+• IMEI tracing
+• cyber legal frameworks
+• digital evidence workflows
+```
 
 ---
 
-# Projects
+### Cryptonic Area — Cyber Security Intern
 
-## Healix — Health Monitoring App
+```txt
+Worked on:
+• secure web application concepts
+• OWASP methodologies
+• vulnerability analysis
+• authentication workflows
+• log analysis
+• structured remediation thinking
+```
+
+---
+
+## Featured Projects
+
+### Healix — Health Monitoring App
 
 Android-based healthcare application concept focused on:
 
@@ -120,7 +145,7 @@ Android-based healthcare application concept focused on:
 
 ---
 
-## Smart Disinfection System — IoT
+### Smart Disinfection System — IoT
 
 IoT-based automated disinfection system using:
 
@@ -132,110 +157,79 @@ IoT-based automated disinfection system using:
 
 ---
 
-## Supply Chain Security Audit
+### Supply Chain Security Audit
 
-Security and privacy audit of a supply chain platform using:
+Security and privacy audit involving:
 
 * OWASP ZAP
 * Acunetix
-* vulnerability assessment techniques
+* vulnerability assessment
 * remediation planning
+* secure authentication analysis
 
 ---
 
-# Certifications
+## Certifications
 
 * Google Cybersecurity Professional Certificate
+* Foundations of Cybersecurity
+* Deloitte Cyber Job Simulation
+* Tata Cybersecurity Analyst Simulation
+* AWS APAC Simulation
 * IT Audit Complete Course
-* Tata Group Cybersecurity Analyst Simulation
-* Deloitte Australia Cyber Job Simulation
 * IoT Security Certification
-* AWS Cloud Related Simulations
 
 ---
 
-# Problem Solving & Learning
+## GitHub Stats
 
-<div align="left">
+<div align="center">
 
-* Solved **139+ LeetCode problems**
-* Strong focus on:
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JaiVardhanVajpai&show_icons=true&theme=transparent&hide_border=true&title_color=8FAADC&text_color=CBD5E1&icon_color=8FAADC"/>
 
-  * Java
-  * DSA fundamentals
-  * problem solving
-  * logical thinking
-  * secure engineering mindset
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiVardhanVajpai&theme=transparent&hide_border=true&ring=8FAADC&fire=8FAADC&currStreakLabel=CBD5E1"/>
 
 </div>
 
 ---
 
-# GitHub Analytics
+## Currently Exploring
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaiVardhanVajpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiVardhanVajpai&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiVardhanVajpai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+```txt
+• Secure Systems Thinking
+• Threat & Risk Analysis
+• OWASP Methodologies
+• Android Development
+• IoT Security
+• Vulnerability Research
+• Cybersecurity Governance
+```
 
 ---
 
-# GitHub Trophies
+## Connect
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JaiVardhanVajpai&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiVardhanVajpai&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:jaivardhanvajpai06668@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="left">
 
 <a href="https://linkedin.com/in/jai-vardhan-vajpai">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaivardhanvajpai06685@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/JaiVardhanVajpai">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0B1120?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### “Learning systems, understanding risks, and building technology more responsibly.”
+*"Learning systems, understanding risks, and building technology more responsibly."*
 
 </div>
 ```
