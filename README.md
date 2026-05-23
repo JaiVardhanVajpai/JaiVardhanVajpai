@@ -14,10 +14,25 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai%20Vardhan%20Vajpai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-vardhan-vajpai)
-[![Email](https://img.shields.io/badge/Email-jaivardhanvajpai06685-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaivardhanvajpai06685@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-JaiVardhanVajpai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaiVardhanVajpai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-JVV.dev-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://jvv.dev)
+<div align="center">
+
+<a href="https://linkedin.com/in/jai-vardhan-vajpai">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaivardhanvajpai06685@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Jai_Vardhan_Vajpai/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://tryhackme.com">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+</div>
 
 </div>
 
@@ -26,7 +41,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=JaiVardhanVajpai&style=flat-square&color=58a6ff&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/JaiVardhanVajpai?style=flat-square&color=58a6ff&label=Followers)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-7.08%2F10-58a6ff?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-7.8%2F10-58a6ff?style=flat-square)
 
 </div>
 
@@ -249,36 +264,39 @@ Live **Flipper Zero and Burp Suite** demo. Sessions by **Prof. Amit Dubey** (Nat
 
 </div>
 
+## 🎯 Areas of Interest
+
+<table>
+<tr>
+<td>🛡️ Security Operations & Incident Response</td>
+<td>🔐 Identity & Access Management</td>
+</tr>
+
+<tr>
+<td>🌐 Web Application Security</td>
+<td>📋 IT Audit & GRC</td>
+</tr>
+
+<tr>
+<td>📚 ISO 27001 • NIST • CIS Controls</td>
+<td>📱 Android Security</td>
+</tr>
+
+<tr>
+<td>🤖 IoT Security</td>
+<td>🔍 Threat Modeling & Risk Analysis</td>
+</tr>
+</table>
+
 ---
 
-## 🎯 Currently Exploring
+## 🔑 Security Philosophy
 
-```bash
-$ cat current_focus.txt
-
-[*] Blue Team Fundamentals and SOC Concepts
-[*] Threat Modeling and Risk Analysis (STRIDE, PASTA)
-[*] OWASP Top 10 -- Deep Dive and Lab Practice
-[*] IAM and Access Control Design (RBAC / ABAC / Zero Trust)
-[*] ISO 27001 / NIST CSF / CIS Controls
-[*] Cybersecurity Governance and GRC
-[*] Android Development (Security-focused)
-[*] IoT Security Research and Hardening
-```
-
----
-
-## 🔑 Security Mindset
-
-```python
-while not secure:
-    research()
-    audit()
-    patch()
-    document()
-    stay_curious()
-```
-
+> Security is not about eliminating every risk.
+>
+> It is about understanding systems, identifying weaknesses,
+> reducing exposure, and making informed decisions that balance
+> security, usability, and business needs.
 ---
 
 ## 🧭 Focus Areas at a Glance
