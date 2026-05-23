@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:jaivardhanvajpai06685@gmail.com">
+<a href="mailto:jaivardhanvajpai06668@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -28,9 +28,6 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://tryhackme.com">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
 
 </div>
 
@@ -58,7 +55,7 @@
 - 🔐 Built secure web apps with **OWASP methodologies**
 - 📍 Based in **Lucknow** — Open to **Delhi NCR / Remote**
 - 💡 Philosophy: *How does this system fail — and how do we make that failure manageable?*
-- 📬 Reach me at **jaivardhanvajpai06685@gmail.com**
+- 📬 Reach me at **jaivardhanvajpai06668@gmail.com**
 
 <br clear="right"/>
 
